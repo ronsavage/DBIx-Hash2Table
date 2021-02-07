@@ -62,8 +62,8 @@ if ($ExtUtils::MakeMaker::VERSION ge '6.46')
 			repository	=>
 			{
 				type	=> 'git',
-				url		=> 'https://github.com/ronsavage/DBIx-Admin-Hash2Table.git',
-				web		=> 'https://github.com/ronsavage/DBIx-Admin-Hash2Table',
+				url		=> 'https://github.com/ronsavage/DBIx-Hash2Table.git',
+				web		=> 'https://github.com/ronsavage/DBIx-Hash2Table',
 			},
 		},
 	};
